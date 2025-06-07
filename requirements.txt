@@ -1,6 +1,7 @@
 streamlit
 transformers
-sentencepiece
+sentencepiece==0.1.99
 torch
-PyMuPDF
 newspaper3k
+PyMuPDF
+
